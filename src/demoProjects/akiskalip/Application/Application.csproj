@@ -7,7 +7,20 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Features\" />
+    <Folder Include="Features\Categories\Commands\" />
+    <Folder Include="Features\Categories\Constants\" />
+    <Folder Include="Features\Categories\Dtos\" />
+    <Folder Include="Features\Categories\Models\" />
+    <Folder Include="Features\Categories\Profiles\" />
+    <Folder Include="Features\Categories\Queries\" />
+    <Folder Include="Features\Categories\Rules\" />
+    <Folder Include="Features\Products\Commands\CreateProduct\" />
+    <Folder Include="Features\Products\Constants\" />
+    <Folder Include="Features\Products\Dtos\" />
+    <Folder Include="Features\Products\Models\" />
+    <Folder Include="Features\Products\Rules\" />
+    <Folder Include="Features\Products\Queries\" />
+    <Folder Include="Features\Products\Profiles\" />
   </ItemGroup>
 
   <ItemGroup>
